@@ -1,17 +1,14 @@
-# NCAA 06 Football Next 24
+# NCAA 06 Football Next - Vanilla Pack
 
-![Preview Beta](https://raw.githubusercontent.com/ncaanext/ncaa06-next/v14/covers/next24-preview-beta.jpg)
-
+![emblem-www](https://github.com/ncaanext/ncaa06-next-vanilla/assets/24241868/bdb59480-8bae-4c72-a38d-c137b19134bb)
 
 https://www.ncaanext.com
 
-2023 Updates to NCAA Football 2006 for PCSX2 & AetherSX2
+# Vanilla Mod Features
 
-### Latest Releases
+This is a collection of textures for the NCAA Football 06 game from EA Sports. This collection includes over 10,000 HD graphic upgrades for the game featuring new uniforms for every team, upgraded logos, menus, interfaces, and a lot more!
 
-https://download.ncaanext.com
-
-If you run into problems first check the wiki on github, then the issues list. You can then try to get help on discord or file an issue on github.
+This is meant to work with the original game. For the full-mod, check out our website for NCAA Next 24 which is a fully enhanced game made to the modern College Football gameplay and rules.
 
 ### Discord
 
@@ -34,55 +31,6 @@ You will be reminded to but be sure to use the contributor list in this Readme i
 Latest help info, including help videos, are found here:
 https://wiki.ncaanext.com
 
-# Full Mod Features
-
-**Note:** This mod assumes you have a legitimate copy of NCAA Football 06 for PS2, dumped into an ISO format and played with PCSX2 v1.7+ and a legitimate PS2 BIOS dump.
-
-
-The NCAA NEXT Mod is a fully integrated modification of NCAA Football 06 with a ton of new features to the original game and previous modification releases. This package is a combination of our team's texture package of over 15,000 new graphics textures and modifications to the entire game's code, database structure, and strings to enhance gameplay, dynasty mod, and visual quality, and much, much more! 
-
-Features include:
-
-**Major Game Upgrades**
-- Over 15,000 Textures Replaced at 4K Res+
-- Modern Rosters
-- Modern College Football Alignment/League Structure & Scheduling, including 12-Game Scheduling System and Notre Dame's rotation and rivalries
-- College Football Playoff
-- Conference Championships and Divisionless Conferences
-- Updated Bowl Names/Sites
-- Modern Playbooks including real Coaches and Coaching Strategies
-- Transfer Portal Recruiting and Waived Transfer Wait Period
-- De-Interlacing Built-In to improve visual quality
-- Uniform Expansion - Up to 20 uniform kits per team!
-- New Modern Gear and Accessories
-- ALL Modern NCAA Rules as of 2023
-- Accelerated Play Clock Option
-- Current Starting Year
-- In-Game Text Updates
-- Allows Duplicate Jersey Numbers
-- Enhanced Recruiting, including NIL Pitches, Improved In-Season Recruiting, Off-Season Recruiting improvements, etc.
-- Improved Recruiting and Walk-On Player Generation Databases
-- International Recruits
-- Unlocked Pride Sticker Counter for all teams
-- Team Prestige, Academic, and Rankings all updated
-- BCS Ranking Algorithm Fixes for Additional Teams
-- Updated Player Number Generation Choices to match NCAA Rules, including "0" jersey numbers
-- Added CPU Coach Stat Tracking, CPU Coach Firing/Retiring, and Auto-Hire for CPU teams
-- Outdoor Stadiums for teams that used to play in domes
-- Updated OOC Rivalries Scheduling + New In-Game Rivalries Added
-- Updated Recruit Ratings, 3D Model Body Shapes & Realistic Accessory Choices
-- Removed "mini" recruits
-- Removed Stadium Cannon Celebrations
-- Added Oregon Duck Mascot
-- Re-Added Historical Teams and unlocked hidden teams and allow mascot teams to play human teams
-- Modern Database of 8192 First and 8192 Last names for recruits
-- Upgraded Music Soundtrack (16 original + 16 new tracks)
-- Re-wrote entire magazine headline and captions database (3500+ lines)
-- New player-to-coach dialogs including NFL, NIL, Transfer Portal and more
-- Sponsorship text updates
-- Uniform Numbers and Decals Fixes
-- Heisman Candidates
-- Added nameplates to uniforms that were missing this
 
 ### **Team Credits:**
 
